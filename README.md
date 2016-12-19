@@ -11,3 +11,4 @@ Hướng phát triển cho phiên bản tiếp theo:
 - Lấy thông tin đăng ký lớp
 - Lấy danh sách lớp mở theo thông tin đăng ký
 - Tự động đưa ra những thời khóa biểu khả thi
+- Tự động đăng ký theo thời khóa biểu mà người dùng lựa chọn
