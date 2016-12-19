@@ -6,6 +6,7 @@ Chạy file LoginSIS.java, nhập username, password
 Hướng phát triển cho phiên bản tiếp theo:
 - Thêm comment, ít nhất 40% src code (mỗi dòng, mỗi hàm, mỗi lớp 1 comment)
 - Ẩn mật khẩu khi nhập dạng ******
+- Chuyển đổi dạng hiển thị giao diện (GUI)
 - Chuyển đổi về dạng hướng đối tượng (chương trình vẫn còn mang tính cấu trúc nhiều)
 - Lấy thông tin đăng ký lớp
 - Lấy danh sách lớp mở theo thông tin đăng ký
