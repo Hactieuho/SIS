@@ -3,7 +3,7 @@ Version 1.1: Chương trình LoginSIS có chức năng gửi gói tin POST mang 
 Chương trình dùng ngôn ngữ Java, phần mạng dựa trên nền tảng Apache, phân tích dựa trên Jsoup.
 
 Hướng dẫn download:
-- Nhấn vào tap '<> Code' ở góc trên bên phải
+- Nhấn vào tap '<> Code' ở góc trên bên trái
 - Nhấn vào nút 'Clone or download' màu xanh ở bên phải
 - Nếu bạn đã có Github thì nhấn 'Open in Desktop' để kéo về máy của mình
 - Nếu bạn chưa có thì nhấn 'Download Zip' để tải về dưới dạng nén, giải nén ra và add vào Eclipse hoặc netBean
