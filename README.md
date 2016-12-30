@@ -1,6 +1,10 @@
 # SIS
-Version 1.1: Chương trình LoginSIS có chức năng gửi gói tin POST mang tham số đăng nhập và sau đó gửi gói tin GET để lấy mã nguồn trang SIS về. Qua đó phân tích bằng JSoup để in ra màn hình tên sinh viên!
+# Version 1.2:
+Chương trình LoginSIS có chức năng gửi gói tin POST mang tham số đăng nhập và sau đó gửi gói tin GET để lấy mã nguồn trang SIS về. Qua đó phân tích bằng JSoup để in ra màn hình tên sinh viên!
 Chương trình dùng ngôn ngữ Java, phần mạng dựa trên nền tảng Apache, phân tích dựa trên Jsoup.
+
+# Update
+Chuyển về dạng hướng đối tượng, tạo package mới (com.Hactieuho96.SIS), các class mới 
 
 Hướng dẫn download:
 - Nhấn vào tap '<> Code' ở góc trên bên trái
@@ -11,7 +15,7 @@ Hướng dẫn download:
 Hướng dẫn sử dụng:
 - Add project vào Eclipse hoặc netBean
 - Build path tất cả thư viện .jar nằm trong thư mục 'Apache lib .jar'
-- Chạy file 'LoginSIS.java' trong thư mục 'src', nhập username, password
+- Chạy file 'Main.java' trong thư mục 'SIS\src\com\Hactieuho96\SIS\main', nhập username, password
 
 Hướng phát triển cho phiên bản tiếp theo:
 - Thêm comment, ít nhất 40% src code (mỗi dòng, mỗi hàm, mỗi lớp 1 comment)
